@@ -21,4 +21,4 @@ rad.json
 #Test results file
 TestResults.xml
 # Python env folder
-MCP_3_11/
+.venv/
